@@ -14,7 +14,8 @@ by [DGSpitzer](https://www.youtube.com/channel/UCzzsYBF4qwtMwJaPJZ5SuPg)
 
 <img src="img/1.jpg" width="512" height="512"/>
 
-<img src="img/3.jpg" width="700" height="547"/>
+<img src="img/3.jpg" width="512" height="400"/>
+
 
 # **👇Model👇**
 
