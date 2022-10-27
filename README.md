@@ -4,7 +4,7 @@
 
 An AI model that generates cyberpunk anime characters!~
 
-Based of a finetuned Waifu Diffusion V1.3 Model with Stable Diffusion V1.5 New Vae using Dreambooth
+Based of a finetuned Waifu Diffusion V1.3 Model with Stable Diffusion V1.5 New Vae, training in Dreambooth
 
 by [DGSpitzer](https://www.youtube.com/channel/UCzzsYBF4qwtMwJaPJZ5SuPg)
 
@@ -25,23 +25,23 @@ AI Model Weights available at huggingface: https://huggingface.co/DGSpitzer/Cybe
 
 # Usage
 
-After model loaded, use keyword 'dgs' in your prompt, with 'illustration style' to get even better results.
+After model loaded, use keyword `dgs` in your prompt, with `illustration style` to get even better results.
 
-Example 1:
+**Example 1:**
 
 ```
 portrait of a girl in dgs illustration style, Anime girl, female soldier working in a cyberpunk city, cleavage, ((perfect femine face)), intricate, 8k, highly detailed, shy, digital painting, intense, sharp focus
 ```
 
-For cyber robot male character, you can add 'muscular male' to improve the output.
+For cyber robot male character, you can add `muscular male` to improve the output.
 
-Example 2:
+**Example 2:**
 
 ```
 a photo of muscular beard soldier male in dgs illustration style, half-body, holding robot arms, strong chest
 ```
 
-If using Stable Diffusion Webui, you can set ‘negative prompt’ as this to get cleaner face:
+If using Stable Diffusion Webui, you can set `negative prompt` as this to get cleaner face:
 
 ```
 body out of frame, deformed, cross-eye, blurry, bad anatomy, ugly, disfigured, poorly drawn face, mutation, mutated, extra limbs
@@ -49,7 +49,7 @@ body out of frame, deformed, cross-eye, blurry, bad anatomy, ugly, disfigured, p
 
 ---
 
-*NOTE: usage of this model implies accpetance of stable diffusion's [CreativeML Open RAIL-M license](LICENSE)*
+**NOTE: usage of this model implies accpetance of stable diffusion's [CreativeML Open RAIL-M license](LICENSE)**
 
 ---
 
