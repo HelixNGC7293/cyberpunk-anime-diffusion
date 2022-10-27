@@ -2,7 +2,7 @@
 
 # Cyberpunk Anime Diffusion
 
-An AI model that generated cyberpunk anime characters!~
+An AI model that generates cyberpunk anime characters!~
 
 Based of a finetuned Waifu Diffusion V1.3 Model with Stable Diffusion V1.5 New Vae using Dreambooth
 
@@ -13,6 +13,8 @@ by [DGSpitzer](https://www.youtube.com/channel/UCzzsYBF4qwtMwJaPJZ5SuPg)
 [![Buy me a coffee](https://badgen.net/badge/icon/Buy%20Me%20A%20Coffee?icon=buymeacoffee&label)](https://www.buymeacoffee.com/dgspitzer)
 
 <img src="img/1.jpg" width="512" height="512"/>
+
+<img src="img/3.jpg" width="700" height="547"/>
 
 # **👇Model👇**
 
@@ -38,7 +40,7 @@ Example 2:
 a photo of muscular beard soldier male in dgs illustration style, half-body, holding robot arms, strong chest
 ```
 
-If using Stable Diffusion Webui, you set ‘negative prompt’ as this to get cleaner face:
+If using Stable Diffusion Webui, you can set ‘negative prompt’ as this to get cleaner face:
 
 ```
 body out of frame, deformed, cross-eye, blurry, bad anatomy, ugly, disfigured, poorly drawn face, mutation, mutated, extra limbs
@@ -48,7 +50,8 @@ body out of frame, deformed, cross-eye, blurry, bad anatomy, ugly, disfigured, p
 
 *NOTE: usage of this model implies accpetance of stable diffusion's [CreativeML Open RAIL-M license](LICENSE)*
 
-<img src="img/3.jpg" width="700" height="547"/>
+---
+
 
 <img src="img/4.jpg" width="700" height="700"/>
 
