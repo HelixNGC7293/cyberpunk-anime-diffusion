@@ -2,8 +2,9 @@
 
 # Cyberpunk Anime Diffusion
 
-An AI model that generated Anime Cyberpunk Stylized Characters!~
-based of a finetuned Waifu Diffusion V1.3 Model with Stable Diffusion V1.5 New Vae using Dreambooth
+An AI model that generated cyberpunk anime characters!~
+
+Based of a finetuned Waifu Diffusion V1.3 Model with Stable Diffusion V1.5 New Vae using Dreambooth
 
 by [DGSpitzer](https://www.youtube.com/channel/UCzzsYBF4qwtMwJaPJZ5SuPg)
 
@@ -13,7 +14,7 @@ by [DGSpitzer](https://www.youtube.com/channel/UCzzsYBF4qwtMwJaPJZ5SuPg)
 
 <img src="img/1.jpg" width="512" height="512"/>
 
-# Model
+# **👇Model👇**
 
 AI Model Weights available at huggingface: https://huggingface.co/DGSpitzer/Cyberpunk-Anime-Diffusion
 
@@ -21,17 +22,34 @@ AI Model Weights available at huggingface: https://huggingface.co/DGSpitzer/Cybe
 
 # Usage
 
-Use keyword 'dgs' in your prompt, with 'illustration style' to get even better results.
+After model loaded, use keyword 'dgs' in your prompt, with 'illustration style' to get even better results.
 
-If using Stable Diffusion Webui, you set negative prompt as this to get cleaner face:
+Example 1:
 
+```
+portrait of a girl in dgs illustration style, Anime girl, female soldier working in a cyberpunk city, cleavage, ((perfect femine face)), intricate, 8k, highly detailed, shy, digital painting, intense, sharp focus
+```
+
+For cyber robot male character, you can add 'muscular male' to improve the output.
+
+Example 2:
+
+```
+a photo of muscular beard soldier male in dgs illustration style, half-body, holding robot arms, strong chest
+```
+
+If using Stable Diffusion Webui, you set ‘negative prompt’ as this to get cleaner face:
+
+```
+body out of frame, deformed, cross-eye, blurry, bad anatomy, ugly, disfigured, poorly drawn face, mutation, mutated, extra limbs
+```
 
 ---
 
 *NOTE: usage of this model implies accpetance of stable diffusion's [CreativeML Open RAIL-M license](LICENSE)*
 
-<img src="img/3.jpg" width="900" height="900"/>
+<img src="img/3.jpg" width="700" height="547"/>
 
-<img src="img/4.jpg" width="900" height="900"/>
+<img src="img/4.jpg" width="700" height="700"/>
 
-<img src="img/6.jpg" width="900" height="900"/>
+<img src="img/6.jpg" width="700" height="700"/>
