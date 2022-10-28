@@ -16,7 +16,7 @@ You can try the [Gradio](https://github.com/gradio-app/gradio) Online Web UI dem
 
 [![Use Finetuned_Diffusion WebUI](https://camo.githubusercontent.com/00380c35e60d6b04be65d3d94a58332be5cc93779f630bcdfc18ab9a3a7d3388/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f25463025394625413425393725323048756767696e67253230466163652d5370616365732d626c7565)](https://huggingface.co/spaces/anzorq/finetuned_diffusion) *Finetuned Diffusion WebUI Demo by anzorq*
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/HelixNGC7293/cyberpunk-anime-diffusion/blob/main/cyberpunk_anime_diffusion.ipynb)[![GitHub](https://badgen.net/badge/icon/Github?icon=github&label)](https://github.com/HelixNGC7293/cyberpunk-anime-diffusion) *Colab Notebook*
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/HelixNGC7293/cyberpunk-anime-diffusion/blob/main/cyberpunk_anime_diffusion.ipynb) *Colab Notebook*
 
 [![Buy me a coffee](https://badgen.net/badge/icon/Buy%20Me%20A%20Coffee?icon=buymeacoffee&label)](https://www.buymeacoffee.com/dgspitzer) *Buy me a coffee if you like this project ;P ♥*
 
