@@ -8,9 +8,18 @@ Based of a finetuned Waifu Diffusion V1.3 Model with Stable Diffusion V1.5 New V
 
 by [DGSpitzer](https://www.youtube.com/channel/UCzzsYBF4qwtMwJaPJZ5SuPg)
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/HelixNGC7293/cyberpunk-anime-diffusion/blob/main/cyberpunk_anime_diffusion.ipynb) [![GitHub](https://badgen.net/badge/icon/Github?icon=github&label)](https://github.com/HelixNGC7293/cyberpunk-anime-diffusion) [![Hugging Face Spaces](https://camo.githubusercontent.com/d645814b4188362bfdd2a8b56cdd1105b8278ae87a4747adf6098a162712c1cc/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f25463025394625413425393725323048756767696e67253230466163652d5370616365732d79656c6c6f77)](https://huggingface.co/DGSpitzer/Cyberpunk-Anime-Diffusion)
+# Online Demo
 
-[![Buy me a coffee](https://badgen.net/badge/icon/Buy%20Me%20A%20Coffee?icon=buymeacoffee&label)](https://www.buymeacoffee.com/dgspitzer)
+You can try the [Gradio](https://github.com/gradio-app/gradio) Online Web UI demo and Colab Notebook at here:
+
+[![Open In Spaces](https://camo.githubusercontent.com/00380c35e60d6b04be65d3d94a58332be5cc93779f630bcdfc18ab9a3a7d3388/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f25463025394625413425393725323048756767696e67253230466163652d5370616365732d626c7565)](https://huggingface.co/spaces/DGSpitzer/DGS-Diffusion-Space) *My Online Space Demo*
+
+[![Use Finetuned_Diffusion WebUI](https://camo.githubusercontent.com/00380c35e60d6b04be65d3d94a58332be5cc93779f630bcdfc18ab9a3a7d3388/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f25463025394625413425393725323048756767696e67253230466163652d5370616365732d626c7565)](https://huggingface.co/spaces/anzorq/finetuned_diffusion) *Finetuned Diffusion WebUI Demo by anzorq*
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/HelixNGC7293/cyberpunk-anime-diffusion/blob/main/cyberpunk_anime_diffusion.ipynb)[![GitHub](https://badgen.net/badge/icon/Github?icon=github&label)](https://github.com/HelixNGC7293/cyberpunk-anime-diffusion) *Colab Notebook*
+
+[![Buy me a coffee](https://badgen.net/badge/icon/Buy%20Me%20A%20Coffee?icon=buymeacoffee&label)](https://www.buymeacoffee.com/dgspitzer) *Buy me a coffee if you like this project ;P ♥*
+
 
 <img src="img/1.jpg" width="512" height="512"/>
 
