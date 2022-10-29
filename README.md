@@ -1,5 +1,7 @@
 <img src="img/5.jpg" width="512" height="512"/>
 
+![visitors](https://visitor-badge.glitch.me/badge?page_id=dgspitzer_DGS_Diffusion_Space)
+
 # Cyberpunk Anime Diffusion
 
 An AI model that generates cyberpunk anime characters!~
