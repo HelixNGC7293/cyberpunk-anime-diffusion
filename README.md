@@ -8,6 +8,8 @@ Based of a finetuned Waifu Diffusion V1.3 Model with Stable Diffusion V1.5 New V
 
 by [DGSpitzer](https://www.youtube.com/channel/UCzzsYBF4qwtMwJaPJZ5SuPg)
 
+**This is the repo for hosting Google Colab Notebook, you can download the model weights from here: https://huggingface.co/DGSpitzer/Cyberpunk-Anime-Diffusion**
+
 # Online Demo
 
 You can try the [Gradio](https://github.com/gradio-app/gradio) Online Web UI demo and Colab Notebook at here:
